@@ -1,5 +1,5 @@
 import findspark
-findspark.init('/Users/JunlinHe/ApacheSpark/spark-3.1.3-bin-hadoop3.2')
+findspark.init('YOUR DIRECTORY FOR SPARK')
 import pyspark
 from pyspark import SparkConf, SparkContext
 from pyspark.streaming import StreamingContext
