@@ -8,6 +8,7 @@ This project uses PySpark to find the popular hashtags in the streaming twitter 
 - flask
 - ast
 - requests
+- psutil
 
 ### Usage
 First of all, creating a project in your favorite IDE. I used PyCharm.
@@ -19,6 +20,7 @@ pip3 install tweepy
 pip3 install flask
 pip3 install ast
 pip3 install requests
+pip3 install psutil
 ```
 
 Installing PySpark is a more complex process. To do it, you can refer to [this great tutorial](https://sundog-education.com/spark-streaming/).
