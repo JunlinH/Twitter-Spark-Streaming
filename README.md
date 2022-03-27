@@ -49,3 +49,7 @@ Going to http://localhost:5558/ in your browser and watching the magic happens!
 
 *If you made some mistakes and you need to run this project again. You need to reopen your IDE and rerun your project. If you don't do this, you might find an error tells you the port you requested has already been occupied.
 
+### References:
+- [Apache Spark Streaming Tutorial: Identifying Trending Twitter Hashtags](https://www.toptal.com/apache/apache-spark-streaming-twitter)
+- [Twitter data analysis through Spark Streaming](https://pgirish.github.io/spark-project/index.html)
+
