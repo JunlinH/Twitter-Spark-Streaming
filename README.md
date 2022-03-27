@@ -21,7 +21,7 @@ pip3 install ast
 pip3 install requests
 ```
 
-Installing PySpark is a more complex process. To do it, you can refer to [this great tutorial](https://sundog-education.com/spark-streaming/)
+Installing PySpark is a more complex process. To do it, you can refer to [this great tutorial](https://sundog-education.com/spark-streaming/).
 
 After installing PySpark, you need to import findspark library first to make PySpark working properly. For example, my spark directory is `/Users/JunlinHe/ApacheSpark/spark-3.1.3-bin-hadoop3.2`. Therefore I used the following code to import PySpark.
 ```
