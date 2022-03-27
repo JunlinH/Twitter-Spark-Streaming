@@ -45,7 +45,7 @@ This project doesn't involve creating tweets, retweets, or anything like that. W
 Also, you need to go to the line 2 in the `streaming.py` file, and filling up your own PySpark directory.
 
 Then, run files in the order: `tweets.py` -> `streaming.py` -> `app.py`.
-Going to http://localhost:5558/ in your browser and watch the magic happens!
+Going to http://localhost:5558/ in your browser and watching the magic happens!
 
 *If you made some mistakes and you need to run this project again. You need to reopen your IDE and rerun your project. If you don't do this, you might find an error tells you the port you requested has already been occupied.
 
