@@ -21,7 +21,7 @@ pip3 install ast
 pip3 install requests
 ```
 
-Installing PySpark is a more complex process. To do it, you can refer to ![this great tutorial](https://sundog-education.com/spark-streaming/)
+Installing PySpark is a more complex process. To do it, you can refer to [this great tutorial](https://sundog-education.com/spark-streaming/)
 
 After installing PySpark, you need to import findspark library first to make PySpark working properly. For example, my spark directory is `/Users/JunlinHe/ApacheSpark/spark-3.1.3-bin-hadoop3.2`. Therefore I used the following code to import PySpark.
 ```
@@ -32,7 +32,7 @@ import pyspark
 
 Then copy and paste all files in this repository into your project folder. Going to the lines 18-21 in the `tweets.py`, and filling up your consumer key, consumer key secret, project access token, project access token secret. 
 
-If you don't what are these, please applying a twitter developer account and create a twitter project in the Twitter website. You need to set up these things in order to get access to streaming Twitter data. To set up a Twitter developer account, please go to this page:
+If you don't know what are these, please applying a twitter developer account and create a twitter project in the Twitter website. You need to set up these things in order to get access to streaming Twitter data. To set up a Twitter developer account, please go to this page:
 https://developer.twitter.com/en
 
 Also, I recommend to request "elevated" permissions for your project by filling up a request form:
