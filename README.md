@@ -2,7 +2,7 @@
 This project uses PySpark to find trending hashtags in the streaming tweets.
 
 ### Requirements
-- pyspark 3.x.x (spark-3.1.3-bin-hadoop3.2 used in this project)
+- pyspark 3.*.* (spark-3.1.3-bin-hadoop3.2 used in this project)
 - findspark
 - tweepy
 - flask
